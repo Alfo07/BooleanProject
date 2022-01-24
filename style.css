@@ -1,0 +1,81 @@
+.SFONDO{
+ background-size: cover;
+
+}
+.rettangolo{
+	width:1000px;
+	height:700px;
+	background:black;
+  opacity: 70%;
+  border-radius: 3%;
+}
+
+
+.container{
+  margin: auto;
+  width: 800px;
+}
+
+.Logo{
+  margin: auto;
+  width: 180px;
+}
+
+.Titolo{
+  text-align: center;
+  color:#00ff00;
+}
+
+.Bottoni{
+  text-align: center;
+  border:6px solid #00ff00;
+  background-color: #00ff00;
+}
+
+.quadrato{
+    font-size: 20px;
+    color: white;
+
+}
+
+.Freccia{
+    font-size: 15px;
+    color: white;
+
+}
+
+
+.Monopattino{
+font-size: 25px;
+color: white;
+}
+
+.Via{
+  font-size: 15px;
+  color: white;
+}
+
+.Batteria1{
+ border: 10px solid red;
+ width: 50px;
+ background-color: Red;
+ border-radius: 5%;
+}
+
+.Batteria2{
+ border: 10px solid #00ff00;
+ width: 300px;
+ background-color: #00ff00;
+ border-radius: 5%;
+}
+
+.Batteria3{
+ border: 10px solid Yellow;
+ width: 180px;
+ background-color: Yellow;
+ border-radius: 5%;
+}
+
+.Carica{
+  color: white;
+}
